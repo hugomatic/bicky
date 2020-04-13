@@ -14,3 +14,11 @@ Inspired by a video clip from Hubei featured in this channel:
 https://www.youtube.com/user/ChrisMartensondotcom
 
 ![bicky](images/bicky.jpg)
+
+## step 1
+
+![bicky](images/step1.jpg)
+
+## step 2
+
+![bicky](images/step2.jpg)
